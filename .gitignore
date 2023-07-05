@@ -16,6 +16,13 @@
 *.dylib
 *.dll
 
+# Mac OS X
+.DS_Store
+.DS_Store?
+.AppleDouble
+.LSOverride
+._*
+
 # Fortran module files
 *.mod
 
